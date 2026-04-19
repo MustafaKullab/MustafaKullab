@@ -1,20 +1,20 @@
 <h1 align="center">Hey 👋, I'm Mustafa Kullab</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mustafa-kullab&label=Profile+Views&color=0e75b6&style=flat">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;Vue.js+Specialist;Building+Modern+Web+Apps;Clean+Code+%7C+Smooth+UI" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=mustafakullab&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-💻 Frontend Developer obsessed with building clean, modern, and interactive user interfaces.
-⚡ I focus on performance, user experience, and scalable code.
-🎯 Turning ideas into real products is what I enjoy the most.
+💻 Frontend Developer focused on building modern, responsive, and interactive web interfaces.
+⚡ I care about performance, clean code, and smooth user experience.
+🎯 I turn ideas into real products.
 
 ---
 
@@ -26,24 +26,23 @@
 
 ---
 
-## 🔥 What I Bring
+## 🔥 What I Do
 
-* ⚡ Fast & responsive interfaces
-* 🎯 Clean and scalable code
-* 🧩 Strong Vue.js experience
-* 🎨 Attention to UI details
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=F7B801&center=true&vCenter=true&width=500&lines=Responsive+Design;Modern+UI;Vue.js+Apps;Clean+Architecture" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Power
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=mustafakullab&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mustafakullab&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafakullab&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
@@ -51,7 +50,7 @@
 ## 🌌 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mustafakullab&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
@@ -59,16 +58,16 @@
 ## 🧪 Projects
 
 <p align="center">
-  🚧 Coming soon... but it will be worth it 👀
+  🚧 Coming soon... something awesome is cooking 👨‍💻🔥
 </p>
 
 ---
 
 ## 🌱 Currently Leveling Up
 
-* Advanced Vue.js patterns
-* Frontend architecture
-* Performance optimization
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=00C2FF&center=true&vCenter=true&width=500&lines=Advanced+Vue.js;Frontend+Architecture;Performance+Optimization" />
+</p>
 
 ---
 
@@ -81,5 +80,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=140&section=footer"/>
 </p>
