@@ -1,69 +1,79 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:000000&height=220&section=header&text=Mustafa%20Kullab&fontSize=70&fontColor=00f2ff&animation=fadeIn&desc=FRONTEND%20ARCHITECT%20•%20VUE%20SPECIALIST&descAlignY=70&descSize=18" width="100%" />
-
-  <br/>
-
-  <p>
-    <img src="https://img.shields.io/badge/VIEWS-TRACKED-000000?style=for-the-badge&logo=eye&labelColor=00f2ff&logoColor=000000&color=000000&count=https://komarev.com/ghpvc/?username=MustafaKullab" />
-    <img src="https://img.shields.io/badge/STATUS-ACTIVE-000000?style=for-the-badge&logo=github&labelColor=00f2ff&logoColor=000000" />
-  </p>
-</div>
-
----
-
-## ⚡ PROFILE
-
-Frontend Architect focused on crafting **high-performance**, **scalable**, and **visually refined** web interfaces.
-Specialized in the Vue.js ecosystem, building applications that balance **structure**, **speed**, and **user experience**.
-
----
-
-## 🧠 STACK
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,pinia,vite,sass,bootstrap,git&theme=dark" />
-</div>
-
-<br/>
+# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 <p align="center">
-  JavaScript (ES6+) • Vue 3 (Composition API) • Pinia • Vite  
-  SASS • Bootstrap • Responsive UI • Clean Architecture
-</p>
-
----
-
-## 📊 ANALYTICS
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MustafaKullab&show_icons=true&theme=vision-friendly-dark&hide_border=true&title_color=00f2ff&icon_color=00f2ff&text_color=ffffff&bg_color=000000" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaKullab&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=00f2ff&text_color=ffffff&bg_color=000000" />
-</div>
-
----
-
-## 🚀 CURRENT WORK
-
-<p align="center">
-Building advanced dashboards & scalable e-commerce systems.  
-<br/>
-<sub>Focused on real-world performance and architecture.</sub>
-</p>
-
----
-
-## 🌐 CONTACT
-
-<div align="center">
-  <a href="https://www.instagram.com/l2rw4/">
-    <img src="https://img.shields.io/badge/INSTAGRAM-CONNECT-000000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=00f2ff" />
+  <a href="https://www.instagram.com/l2rw4/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" height="30" />
   </a>
-</div>
+</p>
+
+![](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ---
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&text_color=00f2ff" />
-</div>
+### 👨‍💻 About Me
 
-<p align="right"><sub>system.ready()</sub></p>
+* 🚀 Frontend Developer focused on building modern, responsive interfaces
+* ⚡ Vue.js specialist (Options API & Composition API)
+* 🎯 I care about clean code, structure, and smooth UX
+* 🧠 Focused on frontend architecture & performance
+* 💼 Open for freelance & job opportunities
+
+---
+
+### 🧰 Tech I Work With
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,pinia,bootstrap,sass,git,github&theme=dark" />
+</p>
+
+---
+
+### ⚙️ Core Skills
+
+* Vue Router
+* Pinia (State Management)
+* Responsive Design
+* Clean & Scalable Code
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mustafakullab&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mustafakullab&show_icons=true&theme=dark&hide_border=true" />
+</p>
+
+---
+
+### ⏱️ Coding Power
+
+```text
+💻 Frontend Development ████████████████████░   95%
+🎨 UI / UX              ███████████████████░░   90%
+⚙️ Architecture         ████████████████████░   95%
+🚀 Performance          ███████████████████░░   90%
+```
+
+---
+
+### 🧪 Current Work
+
+> Building modern dashboards & scalable frontend apps
+>
+> 🚧 Projects will be added soon...
+
+---
+
+### 💬 Quote
+
+> “Good UI is invisible. Great UX is unforgettable.”
+
+---
+
+### 😂 Fun
+
+<img src="https://readme-jokes.vercel.app/api" width="100%" />
