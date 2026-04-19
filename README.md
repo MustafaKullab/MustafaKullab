@@ -1,55 +1,69 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Mustafa%20Kullab&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Crafting%20Premium%20Front-End%20Experiences&descAlignY=60&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=300&section=header&text=MUSTAFA%20KULLAB&fontSize=80&animation=twinkling&fontAlignY=40&desc=FRONT-END%20ARCHITECT%20|%20VUE%20SPECIALIST&descAlignY=60&descSize=20&fontColor=00d2ff" width="100%" />
+
+  <br/>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Views-101010?style=for-the-badge&logo=eye&labelColor=00d2ff&logoColor=white&label=PROFILE%20VIEWS&count=https://komarev.com/ghpvc/?username=MustafaKullab" />
+    <img src="https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPER-101010?style=for-the-badge&logo=github&labelColor=00d2ff&logoColor=black" />
+    <img src="https://img.shields.io/badge/LOCATION-PALESTINE-101010?style=for-the-badge&logo=googlemaps&labelColor=00d2ff&logoColor=black" />
+    <img src="https://img.shields.io/badge/VIEWS-COUNT-101010?style=for-the-badge&logo=eye&labelColor=00d2ff&logoColor=black&count=https://komarev.com/ghpvc/?username=MustafaKullab" />
   </p>
 </div>
 
-### 🪐 The Mission
-I am a **Front-End Architect** specialized in the **Vue.js ecosystem**. I transform complex requirements into seamless, cinematic, and high-performance digital interfaces. My philosophy centers on clean code, modular architecture, and "pixel-perfect" delivery.
+---
+
+### 🌑 [SYSTEM_OVERVIEW]
+I specialize in building **High-Fidelity Interfaces** and **Modular Web Systems**. My focus in 2026 is on performance-first development using the **Vue 3 Ecosystem**, ensuring cinematic motion design and pixel-perfect responsiveness.
 
 ---
 
-### 🚀 Technical Arsenal
+### 🧬 [CORE_STATION]
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vue,pinia,vite,js,ts,html,css,sass,bootstrap,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vue,pinia,vite,ts,js,html,css,sass,bootstrap,figma&theme=dark" />
 </div>
 
 <br/>
 
-- **Frameworks:** Vue.js 3 (Composition/Options API)
-- **State Management:** Pinia & Vuex
-- **Styling:** SASS (SCSS), Bootstrap 5, Modern CSS (Grid/Flexbox)
-- **Environment:** Vite, Webpack, Git
+- **Engine:** Vue.js 3 (Composition API / Script Setup)
+- **Logic:** Reactive State Management with Pinia
+- **Styling:** Advanced SASS Architecture & Bootstrap 5 Customization
+- **Workflow:** Ultra-fast HMR with Vite & Modern Git Flow
 
 ---
 
-### 📊 Engineering Metrics
-<p align="center">
-  <img width="48%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaKullab&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=00d2ff&icon_color=00d2ff" />
-  <img width="48%" align="right" src="https://github-readme-stats.vercel.app/api?username=MustafaKullab&show_icons=true&theme=vision-friendly-dark&hide_border=true&title_color=00d2ff&icon_color=00d2ff" />
-</p>
-<br clear="both"/>
+### 📈 [PERFORMANCE_METRICS]
+<div align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=MustafaKullab&show_icons=true&theme=vision-friendly-dark&hide_border=true&title_color=00d2ff&icon_color=00d2ff&text_color=ffffff&bg_color=000000" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaKullab&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=00d2ff&icon_color=00d2ff&text_color=ffffff&bg_color=000000" />
+</div>
 
 ---
 
-### 🏗️ Labs & Research
-> **Status:** `Active_Development` ⚡
-> 
-> Currently finalizing a series of high-fidelity dashboards and boutique e-commerce engines. The repositories will be public soon.
+### 🏗️ [CURRENT_PROJECTS]
+> **Project_Kullab** | `Status: Optimizing`
+>
+> **Moda_Ops_Dashboard** | `Status: Beta_Testing`
+>
+> *Deep-diving into next-gen animations and micro-interactions.*
 
 ---
 
-### 📡 Interstellar Contact
-Ready to initiate a new project or technical discussion?
+### 📡 [INITIALIZE_CONTACT]
+Ready to deploy a high-end project? Connect via the link below.
 
 <a href="https://www.instagram.com/l2rw4/">
-  <img src="https://img.shields.io/badge/INSTAGRAM-MUSTAFA.KULLAB-101010?style=for-the-badge&logo=instagram&logoColor=white&labelColor=00d2ff" />
+  <img src="https://img.shields.io/badge/INSTAGRAM-OPEN_DM-101010?style=for-the-badge&logo=instagram&logoColor=white&labelColor=00d2ff" />
 </a>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vision-friendly-dark" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&text_color=00d2ff" />
 </div>
+
+<p align="right"><i>// Last_Updated: 2026.04</i></p>
