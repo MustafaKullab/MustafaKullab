@@ -1,56 +1,55 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Mustafa%20Kullab&fontSize=45&fontColor=38BDF8&animation=fadeIn&desc=Frontend%20Developer%20%7C%20Vue.js&descAlignY=75" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Mustafa%20Kullab&fontSize=42&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mustafakullab&label=Profile+Views&color=38BDF8&style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2600&color=3B82F6&center=true&vCenter=true&width=500&lines=Frontend+Developer;Vue.js+Focused;Clean+Code;Modern+UI" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mustafakullab&label=Profile+Views&color=3B82F6&style=flat-square" />
 </p>
 
 ---
 
 ## 👨‍💻 About
 
-Frontend Developer specialized in building modern, responsive web interfaces.
-Focused on **clean architecture**, **performance**, and **real user experience**.
+Frontend Developer building modern, responsive interfaces with focus on structure, clarity, and real usability.
+I care about clean code, scalable architecture, and smooth user experience.
 
 ---
 
-## 🧠 Skills
-
-<div align="center">
-
-**Core**
-HTML • CSS • JavaScript
-
-**Framework**
-Vue.js (Options API & Composition API)
-
-**Ecosystem**
-Vue Router • Pinia • API Integration
-
-**Styling**
-Bootstrap • Sass
-
-**Workflow**
-Git • GitHub
-
-</div>
-
----
-
-## ⚡ What I Care About
+## ⚙️ Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2600&color=38BDF8&center=true&vCenter=true&width=500&lines=Clean+Code;Scalable+Architecture;Smooth+User+Experience;Performance" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,git,github,bootstrap,sass" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 What I Work With
+
+* Vue.js (Options API & Composition API)
+* Vue Router
+* Pinia
+* Responsive Design
+* Clean & Scalable Code
+
+---
+
+## 🎯 Focus
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustafakullab&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafakullab&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2600&color=3B82F6&center=true&vCenter=true&width=500&lines=Frontend+Architecture;Modern+UI;Performance;User+Experience" />
+</p>
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mustafakullab&show_icons=true&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafakullab&layout=compact&hide_border=true" height="150"/>
 </p>
 
 ---
@@ -59,12 +58,12 @@ Git • GitHub
 
 <p align="center">
   <a href="https://www.instagram.com/l2rw4/">
-    <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <sub>Built with focus, not noise.</sub>
+  <sub>Focused on building things that actually work.</sub>
 </p>
