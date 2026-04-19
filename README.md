@@ -1,3 +1,5 @@
+<h1 align="center">Mustafa Kullab</h1>
+
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 <p align="center">
@@ -71,5 +73,3 @@
 ### 💬 Quote
 
 > “Good UI is invisible. Great UX is unforgettable.”
-
----
