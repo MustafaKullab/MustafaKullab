@@ -1,4 +1,4 @@
-<h1 align="center">Mustafa Kullab</h1>
+[<h1 align="center">Mustafa Kullab</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mustafakullab&label=Profile+Views&color=3B82F6&style=flat-square" />
@@ -45,3 +45,4 @@ HTML • CSS • JavaScript • Vue.js • Vue Router • Pinia • Bootstrap �
 <p align="center">
   <sub>Simple. Clear. Effective.</sub>
 </p>
+](https://www.instagram.com/l2rw4/)
