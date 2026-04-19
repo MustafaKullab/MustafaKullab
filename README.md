@@ -1,30 +1,35 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Mustafa%20Kullab&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Developer%20|%20Vue.js&descSize=18&descAlignY=75" />
-</p>
-
-<h1 align="center">Hey 👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;Vue.js+Specialist;Clean+Code+Lover;Building+Modern+UI" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,100:2c5364&height=260&section=header&text=Mustafa%20Kullab&fontSize=50&fontColor=00F7FF&animation=fadeIn&desc=Frontend%20Developer%20%7C%20Vue.js&descAlignY=75&descSize=20" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mustafakullab&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2000&color=00F7FF&center=true&vCenter=true&width=700&lines=Crafting+Modern+Web+Experiences;Vue.js+Specialist;Clean+Code+Addict;UI+%2F+UX+Focused" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mustafakullab&label=Profile+Views&color=00F7FF&style=flat" />
 </p>
 
 ---
 
-## 🧠 About Me
+## ⚡ SYSTEM STATUS
 
-💻 Frontend Developer focused on building modern web interfaces.
-
-⚡ Performance, clean code, and smooth UX are my priorities.
-
-🎯 I build real products, not just layouts.
+```diff
++ Frontend Developer Active
++ Vue.js Specialist
++ Building Modern Interfaces
+```
 
 ---
 
-## 🚀 Tech Stack
+## 🧠 CORE PROFILE
+
+> Building interfaces that feel fast, clean, and intuitive.
+> Focused on performance, scalability, and real-world usability.
+
+---
+
+## 🛠️ TECH
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,vue,git,github" />
@@ -32,18 +37,10 @@
 
 ---
 
-## ⚡ Core Focus
+## 📊 DATA STREAM
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=F7B801&center=true&vCenter=true&width=500&lines=Responsive+Design;Modern+UI;Vue.js+Apps;Scalable+Architecture" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mustafakullab&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=mustafakullab&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -53,38 +50,40 @@
 
 ---
 
-## 🌌 Activity
+## 🌌 ACTIVITY
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mustafakullab&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mustafakullab&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
 
-## 🧪 Projects
+## 🧪 PROJECTS
+
+```txt
+> initializing...
+> loading projects...
+> status: coming soon 🚀
+```
+
+---
+
+## 🧬 EVOLUTION
 
 <p align="center">
-  🚀 Real projects coming soon... stay ready  
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&color=00F7FF&center=true&vCenter=true&width=500&lines=Advanced+Vue.js;Frontend+Architecture;Performance+Optimization" />
 </p>
 
 ---
 
-## 🌱 Growth
+## 🔗 CONNECTION
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2800&color=00C2FF&center=true&vCenter=true&width=500&lines=Advanced+Vue.js;Frontend+Architecture;Performance+Optimization" />
-</p>
-
----
-
-## 🤝 Connect
-
-<p align="center">
-  🚧 Links coming soon  
-</p>
+```bash
+> links: coming soon
+```
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=140&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=140&section=footer"/>
 </p>
