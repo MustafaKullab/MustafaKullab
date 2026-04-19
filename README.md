@@ -1,42 +1,48 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:141E30,100:243B55&height=260&section=header&text=Mustafa%20Kullab&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Developer%20%7C%20Vue.js&descSize=20&descAlignY=75" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:141E30,100:243B55&height=220&section=header&text=Mustafa%20Kullab&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Developer&descAlignY=75" />
 </p>
 
+<h1 align="center">Frontend Developer | Vue.js</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2200&color=58A6FF&center=true&vCenter=true&width=700&lines=Designing+Modern+Interfaces;Building+Smooth+User+Experiences;Vue.js+Focused;Clean+Code+Driven" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2200&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Interfaces;Clean+Code+%7C+Smooth+UX;Vue.js+Focused" />
 </p>
 
 ---
 
-## 🧠 About
+## 🧠 About Me
 
-<p align="center">
-I build modern, responsive, and intuitive web interfaces with a focus on performance and clean architecture.  
-</p>
-
----
-
-## ⚡ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,git,github" />
-</p>
+Frontend Developer specialized in building responsive and user-friendly interfaces using modern web technologies.
+I focus on performance, clean architecture, and creating smooth user experiences.
 
 ---
 
-## ✨ Focus
+## 🛠️ Technical Skills
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2600&color=F78166&center=true&vCenter=true&width=500&lines=Modern+UI;Scalable+Frontend;Performance;User+Experience" />
-</p>
+### 💻 Core
+
+* HTML5
+* CSS3 (Flexbox, Grid)
+* JavaScript (ES6+)
+
+### ⚡ Framework
+
+* Vue.js (Options API & Composition API)
+
+### 🔧 Tools
+
+* Git & GitHub
+* VS Code
+
+### 🎨 Frontend Focus
+
+* Responsive Design
+* UI/UX Principles
+* Clean Code & Scalability
 
 ---
 
-## 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mustafakullab&theme=tokyonight&hide_border=true" />
-</p>
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mustafakullab&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
@@ -45,31 +51,27 @@ I build modern, responsive, and intuitive web interfaces with a focus on perform
 
 ---
 
-## 🌌 Activity
+## 🚀 Projects
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mustafakullab&theme=tokyo-night&hide_border=true&area=true" />
-</p>
+🚧 Projects will be added soon...
 
 ---
 
-## 🧪 Projects
+## 🌱 Currently Improving
 
-<p align="center">
-  <b>Projects will be added soon.</b><br/>
-  <sub>Working on something worth showing 👀</sub>
-</p>
+* Advanced Vue.js patterns
+* Frontend architecture
+* Performance optimization
 
 ---
 
-## 🌱 Growth
+## 📫 Contact
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2600&color=58A6FF&center=true&vCenter=true&width=500&lines=Advanced+Vue.js;Frontend+Architecture;Performance+Optimization" />
-</p>
+* Instagram: https://www.instagram.com/l2rw4/
+* LinkedIn: Coming soon
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=140&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=120&section=footer"/>
 </p>
