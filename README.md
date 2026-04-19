@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Mustafa%20Kullab&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Mustafa%20Kullab&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Developer%20|%20Vue.js&descSize=18&descAlignY=75" />
 </p>
-<h1 align="center">Hey 👋, I'm Mustafa Kullab</h1>
+
+<h1 align="center">Hey 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;Vue.js+Specialist;Building+Modern+Web+Apps;Clean+Code+%7C+Smooth+UI" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;Vue.js+Specialist;Clean+Code+Lover;Building+Modern+UI" />
 </p>
 
 <p align="center">
@@ -15,11 +16,11 @@
 
 ## 🧠 About Me
 
-💻 Frontend Developer focused on building modern, responsive, and interactive web interfaces.  
+💻 Frontend Developer focused on building modern web interfaces.
 
-⚡ I care about performance, clean code, and smooth user experience.  
+⚡ Performance, clean code, and smooth UX are my priorities.
 
-🎯 I turn ideas into real products.  
+🎯 I build real products, not just layouts.
 
 ---
 
@@ -31,15 +32,15 @@
 
 ---
 
-## 🔥 What I Do
+## ⚡ Core Focus
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=F7B801&center=true&vCenter=true&width=500&lines=Responsive+Design;Modern+UI;Vue.js+Apps;Clean+Architecture" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=F7B801&center=true&vCenter=true&width=500&lines=Responsive+Design;Modern+UI;Vue.js+Apps;Scalable+Architecture" />
 </p>
 
 ---
 
-## 📊 GitHub Power
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mustafakullab&theme=tokyonight&hide_border=true" height="160"/>
@@ -52,7 +53,7 @@
 
 ---
 
-## 🌌 Activity Graph
+## 🌌 Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mustafakullab&theme=tokyo-night&hide_border=true&area=true" />
@@ -63,23 +64,23 @@
 ## 🧪 Projects
 
 <p align="center">
-  🚧 Coming soon... something awesome is cooking 👨‍💻🔥
+  🚀 Real projects coming soon... stay ready  
 </p>
 
 ---
 
-## 🌱 Currently Leveling Up
+## 🌱 Growth
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=00C2FF&center=true&vCenter=true&width=500&lines=Advanced+Vue.js;Frontend+Architecture;Performance+Optimization" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2800&color=00C2FF&center=true&vCenter=true&width=500&lines=Advanced+Vue.js;Frontend+Architecture;Performance+Optimization" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect
 
 <p align="center">
-  <i>Links coming soon...</i>
+  🚧 Links coming soon  
 </p>
 
 ---
