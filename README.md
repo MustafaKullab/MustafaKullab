@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:020617&height=180&section=header&text=Mustafa%20Kullab&fontSize=50&fontColor=38BDF8&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Mustafa%20Kullab&fontSize=45&fontColor=38BDF8&animation=fadeIn&desc=Frontend%20Developer%20%7C%20Vue.js&descAlignY=75" />
 </p>
-
-<h3 align="center">Frontend Developer • Vue.js • Clean Architecture</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mustafakullab&label=Profile+Views&color=38BDF8&style=for-the-badge" />
@@ -10,35 +8,49 @@
 
 ---
 
-## 🚀 Overview
+## 👨‍💻 About
 
-```txt
-Building modern web interfaces with focus on performance,
-scalability, and real user experience.
-```
+Frontend Developer specialized in building modern, responsive web interfaces.
+Focused on **clean architecture**, **performance**, and **real user experience**.
 
 ---
 
-## 🧠 Tech Ecosystem
+## 🧠 Skills
+
+<div align="center">
+
+**Core**
+HTML • CSS • JavaScript
+
+**Framework**
+Vue.js (Options API & Composition API)
+
+**Ecosystem**
+Vue Router • Pinia • API Integration
+
+**Styling**
+Bootstrap • Sass
+
+**Workflow**
+Git • GitHub
+
+</div>
+
+---
+
+## ⚡ What I Care About
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Vue%20Router-black?style=for-the-badge&logo=vue.js"/>
-  <img src="https://img.shields.io/badge/Pinia-black?style=for-the-badge&logo=vue.js"/>
-  <img src="https://img.shields.io/badge/API-black?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=sass"/>
-  <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2600&color=38BDF8&center=true&vCenter=true&width=500&lines=Clean+Code;Scalable+Architecture;Smooth+User+Experience;Performance" />
 </p>
 
 ---
 
-## 📊 Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustafakullab&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mustafakullab&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafakullab&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
@@ -47,6 +59,12 @@ scalability, and real user experience.
 
 <p align="center">
   <a href="https://www.instagram.com/l2rw4/">
-    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram"/>
+    <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
   </a>
+</p>
+
+---
+
+<p align="center">
+  <sub>Built with focus, not noise.</sub>
 </p>
