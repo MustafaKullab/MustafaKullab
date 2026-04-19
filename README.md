@@ -1,14 +1,16 @@
 <h1 align="center">Mustafa Kullab</h1>
 
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+<p align="center">
+  Frontend Developer • Vue.js • Clean UI
+</p>
 
 <p align="center">
   <a href="https://www.instagram.com/l2rw4/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" height="30" />
+    <img src="https://img.shields.io/badge/Instagram-@l2rw4-000000?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
-![](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 ---
 
