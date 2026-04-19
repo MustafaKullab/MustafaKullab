@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Mustafa%20Kullab&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 <h1 align="center">Hey 👋, I'm Mustafa Kullab</h1>
 
 <p align="center">
