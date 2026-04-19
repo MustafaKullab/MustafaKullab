@@ -1,75 +1,62 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,100:1e293b&height=260&section=header&text=Mustafa%20Kullab&fontSize=50&fontColor=38BDF8&animation=fadeIn&desc=Creative%20Frontend%20Developer&descAlignY=75&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Mustafa%20Kullab&fontSize=40&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2200&color=38BDF8&center=true&vCenter=true&width=700&lines=Designing+Interfaces+That+Feel+Alive;Vue.js+Focused+Developer;Clean+Code+%7C+Real+UX;Building+for+Real+Users" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&color=3B82F6&center=true&vCenter=true&width=500&lines=Frontend+Developer;Vue.js+Specialist;Clean+Code;Modern+UI" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mustafakullab&label=Profile%20Views&color=3B82F6&style=flat-square" />
 </p>
 
 ---
 
-## ⚡ Identity
+## 👨‍💻 About
 
-<p align="center">
-Creative frontend developer focused on crafting smooth, modern, and user-driven interfaces.  
-I don't just build layouts — I build experiences that feel fast, clean, and alive.  
-</p>
+Frontend Developer specialized in building modern, responsive web interfaces.
+Focused on clean architecture, performance, and real user experience.
 
 ---
 
-## 🧠 Engineering Stack
+## 🧰 Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,vue,git,github,bootstrap,sass" />
 </p>
 
+---
+
+## ⚙️ Tools & Tech
+
+* Vue.js (Options API & Composition API)
+* Vue Router
+* Pinia
+* API Integration (Axios / Fetch)
+
+---
+
+## 🎯 Focus
+
+* Scalable Frontend Architecture
+* Performance Optimization
+* Clean UI & UX
+
+---
+
+## 📊 Stats
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Vue%20Router-1e293b?style=for-the-badge&logo=vue.js&logoColor=38BDF8"/>
-  <img src="https://img.shields.io/badge/Pinia-1e293b?style=for-the-badge&logo=vue.js&logoColor=38BDF8"/>
-  <img src="https://img.shields.io/badge/API%20Integration-1e293b?style=for-the-badge&logo=javascript&logoColor=38BDF8"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mustafakullab&show_icons=true&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafakullab&layout=compact&hide_border=true" height="150"/>
 </p>
 
 ---
 
-## 🎯 What I Focus On
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2600&color=F59E0B&center=true&vCenter=true&width=500&lines=Scalable+Frontend+Architecture;Modern+UI+Systems;Performance+Optimization;Smooth+User+Experience" />
-</p>
-
----
-
-## 📊 GitHub Intelligence
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mustafakullab&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustafakullab&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafakullab&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
-
-## 🧪 Selected Work
-
-<p align="center">
-  <sub>Projects will appear here — built with intention, not just code.</sub>
-</p>
-
----
-
-## 🌐 Presence
+## 🌐 Connect
 
 <p align="center">
   <a href="https://www.instagram.com/l2rw4/">
-    <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=140&section=footer"/>
 </p>
