@@ -12,9 +12,11 @@
 
 ## 🧠 About Me
 
-💻 Frontend Developer focused on building modern, responsive, and interactive web interfaces.
-⚡ I care about performance, clean code, and smooth user experience.
-🎯 I turn ideas into real products.
+💻 Frontend Developer focused on building modern, responsive, and interactive web interfaces.  
+
+⚡ I care about performance, clean code, and smooth user experience.  
+
+🎯 I turn ideas into real products.  
 
 ---
 
