@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Mustafa Kullab</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Vue.js+Specialist;Building+Modern+Web+Apps;Clean+Code+%7C+Smooth+UI" />
+  <img src="https://komarev.com/ghpvc/?username=mustafa-kullab&label=Profile+Views&color=0e75b6&style=flat">
 </p>
 
 <p align="center">
