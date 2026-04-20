@@ -10,6 +10,8 @@
   </a>
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=MustafaKullab&color=blue)
+
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 ---
