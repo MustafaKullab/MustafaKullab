@@ -1,7 +1,9 @@
 <h1 align="center">Mustafa Kullab</h1>
 
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHlmZGk2b2wyZDFka21jcno3YXFlcWYzZXh3azU5MmMwaG5mZDh6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" />
+<div align="center">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3ZsZmkybDN2c2VjN3EzdGdsMW8xMWp1djl4bXM2eGw0cWY0aXA3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="35%"/>
+</div>
 
 
 <p align="center">
