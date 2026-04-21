@@ -58,7 +58,7 @@
 
 ### 🧪 Current Work
 
-> Building modern dashboards & scalable frontend apps
+> Building Vue.js applications and improving frontend architecture through real projects
 
 ---
 
