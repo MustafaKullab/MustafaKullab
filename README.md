@@ -20,7 +20,7 @@
 ### 👨‍💻 About Me
 
 * 🚀 Frontend Developer focused on building modern, responsive interfaces
-* ⚡ Vue.js specialist (Options API & Composition API)
+* ⚡ Vue.js Developer (Options API & Composition API)
 * 🎯 I care about clean code, structure, and smooth UX
 * 🧠 Focused on frontend architecture & performance
 * 💼 Open for freelance & job opportunities
