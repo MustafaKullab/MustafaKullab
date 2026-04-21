@@ -10,13 +10,11 @@
   Junior Frontend Developer • Vue.js • Clean UI
 </p>
 
-<p align="center">
-  <a href="https://www.instagram.com/l2rw4/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@l2rw4-000000?style=for-the-badge&logo=instagram&logoColor=white" />
+<div align="center">
+  <a href="www.linkedin.com/in/mustafa-kullab-aa6a153bb" target="_blank" >
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/LinkedIn.svg" width="40" />
   </a>
-</p>
-
-![Profile Views](https://komarev.com/ghpvc/?username=MustafaKullab&style=for-the-badge&color=0e75b6)
+</div>
 
 
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
