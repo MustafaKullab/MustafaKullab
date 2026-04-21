@@ -1,5 +1,9 @@
 <h1 align="center">Mustafa Kullab</h1>
 
+
+<img src="[https://img.shields.io/badge/Instagram-@l2rw4-000000?style=for-the-badge&logo=instagram&logoColor=white](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHlmZGk2b2wyZDFka21jcno3YXFlcWYzZXh3azU5MmMwaG5mZDh6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif)" />
+
+
 <p align="center">
   Junior Frontend Developer • Vue.js • Clean UI
 </p>
