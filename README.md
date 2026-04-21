@@ -1,7 +1,7 @@
 <h1 align="center">Mustafa Kullab</h1>
 
 <p align="center">
-  Frontend Developer • Vue.js • Clean UI
+  Junior Frontend Developer • Vue.js • Clean UI
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 * 🚀 Frontend Developer focused on building modern, responsive interfaces
 * ⚡ Vue.js Developer (Options API & Composition API)
 * 🎯 I care about clean code, structure, and smooth UX
-* 🧠 Focused on frontend architecture & performance
+* 🧠 interested in improving performance
 * 💼 Open for freelance & job opportunities
 
 ---
@@ -38,7 +38,7 @@
 ### ⚙️ Core Skills
 
 * Vue Router
-* Pinia (State Management)
+* Pinia (learning)
 * Responsive Design
 * Clean & Scalable Code
 
@@ -56,22 +56,9 @@
 
 ---
 
-### ⏱️ Coding Power
-
-```text
-💻 Frontend Development ████████████████████░   95%
-🎨 UI / UX              ███████████████████░░   90%
-⚙️ Architecture         ████████████████████░   95%
-🚀 Performance          ███████████████████░░   90%
-```
-
----
-
 ### 🧪 Current Work
 
 > Building modern dashboards & scalable frontend apps
->
-> 🚧 Projects will be added soon...
 
 ---
 
