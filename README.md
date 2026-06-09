@@ -1,21 +1,18 @@
 <h1 align="center">Mustafa Kullab</h1>
 
-
 <div align="center">
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3ZsZmkybDN2c2VjN3EzdGdsMW8xMWp1djl4bXM2eGw0cWY0aXA3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="35%"/>
 </div>
 
-
 <p align="center">
-  Junior Frontend Developer • Vue.js • Clean UI
+  Frontend & Backend Developer • Vue.js • Node.js • Express.js • MongoDB
 </p>
 
 <div align="center">
-  <a href="www.linkedin.com/in/mustafa-kullab-aa6a153bb" target="_blank" >
+  <a href="https://www.linkedin.com/in/mustafa-kullab-aa6a153bb" target="_blank">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/LinkedIn.svg" width="40" />
   </a>
 </div>
-
 
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
@@ -23,28 +20,50 @@
 
 ### 👨‍💻 About Me
 
-* 🚀 Frontend Developer focused on building modern, responsive interfaces
-* ⚡ Vue.js Developer (Options API & Composition API)
-* 🎯 I care about clean code, structure, and smooth UX
-* 🧠 interested in improving performance
-* 💼 Open for freelance & job opportunities
+* 🚀 Web Developer focused on building modern and responsive web applications
+* ⚡ Working with Vue.js, Node.js, Express.js and MongoDB
+* 🎯 Passionate about clean code, scalable architecture and user experience
+* 🧠 Continuously learning and improving both frontend and backend development skills
+* 💼 Open for freelance, internships and job opportunities
 
 ---
 
-### 🧰 Tech I Work With
+### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,pinia,bootstrap,sass,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,pinia,bootstrap,sass,nodejs,express,mongodb,git,github,postman,vscode&theme=dark" />
 </p>
 
 ---
 
 ### ⚙️ Core Skills
 
+* Vue.js (Options API & Composition API)
 * Vue Router
-* Pinia (learning)
-* Responsive Design
+* Pinia State Management
+* REST API Development
+* JWT Authentication
+* MongoDB & Mongoose
+* Express.js Backend Development
+* Responsive Web Design
+* Form Validation
 * Clean & Scalable Code
+* Git & GitHub Workflow
+
+---
+
+### 🚀 Featured Projects
+
+#### Full Stack Task Manager
+
+* User Authentication (JWT)
+* Password Reset via Email
+* Avatar Uploads with Multer
+* Task CRUD Operations
+* MongoDB Integration
+* Protected Routes
+* Frontend built with Vue.js
+* Backend built with Express.js
 
 ---
 
@@ -60,12 +79,15 @@
 
 ---
 
-### 🧪 Current Work
+### 🎯 Currently Learning
 
-> Building Vue.js applications and improving frontend architecture through real projects
+* Advanced Vue.js Patterns
+* Backend Architecture
+* API Security Best Practices
+* Performance Optimization
 
 ---
 
 ### 💬 Quote
 
-> “Good UI is invisible. Great UX is unforgettable.”
+> "Good UI is invisible. Great UX is unforgettable."
