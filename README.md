@@ -1,7 +1,7 @@
 <h1 align="center">Mustafa Kullab</h1>
 
 <div align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3ZsZmkybDN2c2VjN3EzdGdsMW8xMWp1djl4bXM2eGw0cWY0aXA3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="35%"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3ZsZmkybDN2c2VjN3EzdGdsMW8xMWp1djl4bXM0eGw0cWY0aXA3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="35%"/>
 </div>
 
 <p align="center">
@@ -31,13 +31,14 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,pinia,bootstrap,sass,nodejs,express,mongodb,git,github,postman,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,pinia,bootstrap,sass,nodejs,express,mongodb,cpp,git,github,postman,vscode&theme=dark" />
 </p>
 
 ---
 
 ### ⚙️ Core Skills
 
+* C++
 * Vue.js (Options API & Composition API)
 * Vue Router
 * Pinia State Management
