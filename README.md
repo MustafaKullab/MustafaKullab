@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Vue.js • Node.js • Express.js • MongoDB
+  Vue.js • JavaScript • Node.js • Express.js • MongoDB
 </p>
 
 <div align="center">
@@ -13,11 +13,11 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mustafa-kullab-aa6a153bb" target="_blank">
+  <a href="https://www.linkedin.com/in/mustafa-kullab-aa6a153bb">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/LinkedIn.svg" width="40" />
   </a>
   &nbsp;
-  <a href="https://github.com/mustafakullab" target="_blank">
+  <a href="https://github.com/MustafaKullab">
     <img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" />
   </a>
 </p>
@@ -26,12 +26,11 @@
 
 ### 👨‍💻 About Me
 
-* 🚀 Full Stack Web Developer focused on building modern and responsive web applications
-* ⚡ Experienced with Vue.js, Node.js, Express.js, and MongoDB
-* 🧩 Interested in building clean, maintainable, and scalable applications
-* 🧠 Continuously improving my frontend and backend development skills
-* 🎯 Currently expanding my knowledge of advanced Vue.js, backend architecture, and API security
-* 💼 Open to internships, freelance opportunities, and junior developer roles
+I'm a Computer Systems Engineering student and Full Stack Web Developer focused on building modern, responsive, and practical web applications.
+
+My development journey started with HTML, CSS, and JavaScript, then progressed into Vue.js and frontend application development. I'm currently building full-stack applications using Node.js, Express.js, MongoDB, and REST APIs.
+
+I enjoy turning ideas into complete applications, from responsive interfaces and state management to backend APIs, authentication, and database integration.
 
 ---
 
@@ -40,98 +39,134 @@
 #### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,pinia,bootstrap,sass&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,pinia,bootstrap,sass" />
 </p>
 
 #### Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-#### Programming & Tools
+#### Tools & Other Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,git,github,postman,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,cpp" />
 </p>
 
 ---
 
-### ⚙️ Core Skills
+### 🚀 Selected Projects
 
-* Vue.js (Options API & Composition API)
-* Vue Router
-* Pinia State Management
-* REST API Development
-* JWT Authentication & Authorization
-* MongoDB & Mongoose
-* Express.js Backend Development
-* Form Validation
-* Responsive Web Design
-* Git & GitHub Workflow
-* Clean & Maintainable Code
-* Basic C++ Programming
+#### 🛒 NovaStore — Full Stack E-Commerce
 
----
+A full-stack e-commerce application built with a separate Vue.js frontend and Node.js/Express backend.
 
-### 🚀 Featured Projects
+**Highlights:**
 
-#### 🛒 Full Stack E-Commerce Website
+* User authentication and authorization
+* JWT-based authentication
+* Product and category management
+* Shopping cart and checkout flow
+* Orders and user management
+* Admin functionality
+* REST API integration
+* MongoDB database
+* Responsive Vue.js frontend
 
-A complete full-stack e-commerce application with separate customer and admin functionality.
-
-**Features:**
-
-* User Registration & Authentication
-* JWT Authentication
-* Product & Category Management
-* Shopping Cart
-* Orders Management
-* User Profile
-* Admin Dashboard
-* Contact & Messaging System
-* MongoDB Database
-* Vue.js Frontend
-* Express.js Backend
+🔗 [Live Demo](https://novastore-frontend-psi.vercel.app/)
+🔗 [Frontend](https://github.com/MustafaKullab/novastore-frontend)
+🔗 [Backend](https://github.com/MustafaKullab/novastore-backend)
 
 ---
 
-#### ✅ Full Stack Task Manager
+#### 🧥 ModaOps Platform — Frontend E-Commerce
 
-A full-stack task management application built to practice authentication, REST APIs, and frontend state management.
+A modern Vue.js e-commerce platform focused on polished UI/UX, application structure, authentication flows, and dashboard interfaces.
 
-**Features:**
+**Highlights:**
 
-* User Authentication with JWT
-* Password Reset via Email
-* Avatar Uploads with Multer
-* Task CRUD Operations
-* Protected Routes
-* MongoDB Integration
-* Vue.js Frontend
-* Express.js Backend
+* Modern responsive UI
+* Authentication and protected routes
+* User profile
+* Product browsing and filtering
+* Orders interface
+* Dashboard and analytics UI
+* Reusable Vue components
+* State management
 
----
-
-### 📚 Learning Projects
-
-Alongside my main projects, I build smaller applications and programming exercises to strengthen my fundamentals and learn new technologies.
-
-* 🎮 C++ Rock Paper Scissors Game
-* 🧩 JavaScript Practice Projects
-* 🌐 Vue.js Learning Projects
-* ⚙️ Backend & REST API Exercises
+🔗 [Live Demo](https://style-store-vert.vercel.app/)
+🔗 [Repository](https://github.com/MustafaKullab/moda-ops-platform)
 
 ---
 
-### 🎯 Currently Learning
+#### 👥 Kullab User Manager — Vue.js
 
-* Advanced Vue.js Patterns
-* Vue 3 Composition API
-* Backend Architecture
-* API Security Best Practices
-* Performance Optimization
-* Advanced C++ Fundamentals
+A user management dashboard built with Vue 3 and Pinia, featuring authentication and CRUD operations.
+
+**Highlights:**
+
+* Authentication
+* Protected application flow
+* CRUD operations
+* Pinia state management
+* Responsive dashboard interface
+
+🔗 [Repository](https://github.com/MustafaKullab/Kullab-User-Manager)
+
+---
+
+#### 🎬 Streaming Entertainment App — Vue.js
+
+A responsive entertainment application for browsing movies and TV series with search and bookmarking functionality.
+
+**Highlights:**
+
+* Vue.js
+* Search
+* Dynamic content
+* Bookmark management
+* Responsive UI
+
+🔗 [Repository](https://github.com/MustafaKullab/streaming-entertainment-app)
+
+---
+
+#### 🌍 Countries Explorer — Vue.js & REST API
+
+A responsive application that consumes the REST Countries API and allows users to search, filter, and explore country information.
+
+🔗 [Repository](https://github.com/MustafaKullab/Countries-Explorer-App-Vue.js-REST-API-Integration-with-Search-Filtering)
+
+---
+
+#### 🖥️ Frontend Projects
+
+A collection of responsive frontend projects built while strengthening HTML, CSS, and JavaScript fundamentals.
+
+* [Kullab Responsive MultiPage](https://mustafakullab.github.io/Kullab-Responsive-MultiPage/)
+* [Kullab Frontend Template](https://mustafakullab.github.io/Kullab-Frontend-Template/)
+* [Kasper Responsive Landing Page](https://mustafakullab.github.io/kasper-responsive-landing-page/)
+* [Interactive Landing Page — Vanilla JS](https://mustafakullab.github.io/Interactive-Landing-Page-Vanilla-JS-/)
+
+---
+
+### 📚 Currently Learning
+
+* Advanced Vue.js patterns and application architecture
+* Backend architecture and API design
+* Authentication and API security
+* Performance and application optimization
+* C++ fundamentals through practical projects
+
+---
+
+### 💻 C++ Practice
+
+Currently studying C++ and applying programming fundamentals through small projects.
+
+* [Rock Paper Scissors Game](https://github.com/MustafaKullab/cpp-rock-paper-scissors)
+* [Math Quiz Game](https://github.com/MustafaKullab/cpp-math-quiz-game)
 
 ---
 
@@ -144,12 +179,6 @@ Alongside my main projects, I build smaller applications and programming exercis
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mustafakullab&show_icons=true&theme=dark&hide_border=true" />
 </p>
-
----
-
-### 💬 Quote
-
-> "Good UI is invisible. Great UX is unforgettable."
 
 ---
 
