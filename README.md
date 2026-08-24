@@ -5,47 +5,42 @@
 </p>
 
 <p align="center">
-  Building modern web applications from interface to API.
+  Building modern web applications from <b>UI</b> to <b>API</b>.
 </p>
 
 <p align="center">
-  <a href="https://github.com/MustafaKullab">
-    <img src="https://img.shields.io/github/followers/MustafaKullab?label=Followers&style=flat-square" />
-  </a>
-  <a href="https://github.com/MustafaKullab?tab=repositories">
-    <img src="https://img.shields.io/github/stars/MustafaKullab?affiliations=OWNER&style=flat-square&label=Stars" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=MustafaKullab&style=flat-square&label=Profile+Views" />
+  <a href="https://www.linkedin.com/in/mustafa-kullab-aa6a153bb">LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/MustafaKullab">GitHub</a>
 </p>
+
+<br>
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3ZsZmkybDN2c2VjN3EzdGdsMW8xMWp1djl4bXM0eGw0cWY0aXA3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="32%" />
+  <img
+    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3ZsZmkybDN2c2VjN3EzdGdsMW8xMWp1djl4bXM0eGw0cWY0aXA3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"
+    width="360"
+    alt="Coding animation"
+  />
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mustafa-kullab-aa6a153bb">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/MustafaKullab">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<br>
 
 ---
 
 ## 👋 About Me
 
-I'm a **Computer Systems Engineering student** and **Full Stack Web Developer** focused on building responsive and practical web applications.
+I'm a **Computer Systems Engineering student** and **Full Stack Web Developer** who enjoys turning ideas into practical web applications.
 
-My journey started with **HTML, CSS, and JavaScript**, then moved into **Vue.js**, state management, REST APIs, and eventually full-stack development with **Node.js, Express.js, and MongoDB**.
+My journey started with **HTML, CSS, and JavaScript**, grew through **Vue.js and frontend application development**, and eventually expanded into backend development with **Node.js, Express.js, MongoDB, REST APIs, and authentication**.
 
-I enjoy turning ideas into complete applications — from designing the interface and managing application state to building APIs, authentication, and database-driven features.
+I care about building interfaces that feel good to use and backend systems that are structured, maintainable, and reliable.
 
-> 🚀 Build → Learn → Improve → Repeat
+> **Build. Break. Learn. Improve. Repeat.**
 
 ---
 
-## 🛠️ Tech Stack
+## 🧩 What I Work With
 
 ### Frontend
 
@@ -53,181 +48,199 @@ I enjoy turning ideas into complete applications — from designing the interfac
   <img src="https://skillicons.dev/icons?i=html,css,js,vue,pinia,bootstrap,sass" />
 </p>
 
-### Backend & Database
+### Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-### Tools & Other Technologies
+### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,cpp" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
+
+### Also Exploring
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Work
 
-### 🛒 NovaStore — Full Stack E-Commerce
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A full-stack e-commerce application with a dedicated **Vue.js frontend** and **Node.js / Express backend**.
+### 🛒 NovaStore
 
-**Frontend:** Vue.js • Pinia • Vue Router
-**Backend:** Node.js • Express.js • MongoDB • Mongoose
+**Full Stack E-Commerce**
 
-**Highlights**
+Vue.js frontend + Node.js / Express backend + MongoDB.
 
-* 🔐 Authentication & authorization
-* 🔑 JWT-based authentication
-* 🛍️ Product and category management
-* 🛒 Shopping cart and checkout flow
-* 📦 Orders management
-* 👤 User management
-* 🧑‍💼 Admin functionality
-* 🔌 REST API integration
-* 📱 Responsive frontend
-
-<p>
-  <a href="https://novastore-frontend-psi.vercel.app/">
-    <img src="https://img.shields.io/badge/Live-Demo-0D6EFD?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/MustafaKullab/novastore-frontend">
-    <img src="https://img.shields.io/badge/Frontend-GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/MustafaKullab/novastore-backend">
-    <img src="https://img.shields.io/badge/Backend-GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-### 🧥 ModaOps Platform — Frontend
-
-A modern **Vue.js e-commerce platform** built before my transition into backend development.
-
-The project focuses on responsive UI, reusable components, application structure, user flows, and dashboard-oriented interfaces.
-
-**Highlights**
-
-* 🎨 Modern responsive UI
-* 🧩 Reusable Vue components
-* 🔐 Authentication flow
-* 🧭 Protected routes
-* 🔎 Product browsing and filtering
-* 👤 User profile interface
-* 📊 Dashboard & analytics UI
-* ⚡ State management
-
-<p>
-  <a href="https://style-store-vert.vercel.app/">
-    <img src="https://img.shields.io/badge/Live-Demo-0D6EFD?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/MustafaKullab/moda-ops-platform">
-    <img src="https://img.shields.io/badge/Repository-GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-### 🌍 Countries Explorer — Vue.js + REST API
-
-A responsive application built with Vue.js and the REST Countries API.
-
-**Highlights**
-
-* 🌐 REST API integration
-* 🔎 Search
-* 🗂️ Filtering
-* 📄 Dynamic country data
-* 📱 Responsive interface
-
-<p>
-  <a href="https://github.com/MustafaKullab/Countries-Explorer-App-Vue.js-REST-API-Integration-with-Search-Filtering">
-    <img src="https://img.shields.io/badge/Repository-GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-## 🎨 Frontend Projects
-
-A collection of projects that helped me strengthen my **HTML, CSS, JavaScript, responsive design, and UI implementation** skills.
-
-| Project                                 | Preview                                                                            |
-| --------------------------------------- | ---------------------------------------------------------------------------------- |
-| 🖥️ Kullab Responsive MultiPage         | [Live Demo](https://mustafakullab.github.io/Kullab-Responsive-MultiPage/)          |
-| 🎨 Kullab Frontend Template             | [Live Demo](https://mustafakullab.github.io/Kullab-Frontend-Template/)             |
-| 💻 Kasper Responsive Landing Page       | [Live Demo](https://mustafakullab.github.io/kasper-responsive-landing-page/)       |
-| ⚡ Interactive Landing Page — Vanilla JS | [Live Demo](https://mustafakullab.github.io/Interactive-Landing-Page-Vanilla-JS-/) |
-
----
-
-## 💻 C++ Practice
-
-Currently studying **C++** and applying programming fundamentals through small practical projects.
-
-<details>
-<summary><strong>View C++ Projects</strong></summary>
+Authentication, authorization, products, cart, checkout, orders, user management, REST APIs and admin functionality.
 
 <br>
 
-### ✊ Rock Paper Scissors
+<a href="https://novastore-frontend-psi.vercel.app/">
+  Live Demo ↗
+</a>
 
-A console-based game using enums, structs, functions, loops, random numbers, and game-state logic.
+<br>
 
-[View Repository](https://github.com/MustafaKullab/cpp-rock-paper-scissors)
+<a href="https://github.com/MustafaKullab/novastore-frontend">
+  Frontend
+</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/MustafaKullab/novastore-backend">
+  Backend
+</a>
 
-### 🧮 Math Quiz Game
+</td>
 
-A console-based quiz game featuring different question levels, arithmetic operations, random question generation, scoring, and result tracking.
+<td width="50%" valign="top">
 
-[View Repository](https://github.com/MustafaKullab/cpp-math-quiz-game)
+### 🧥 ModaOps
+
+**Frontend E-Commerce Platform**
+
+A Vue.js application focused on modern UI, reusable components, user flows, product browsing, filtering, dashboards and responsive design.
+
+<br>
+
+<a href="https://style-store-vert.vercel.app/">
+  Live Demo ↗
+</a>
+
+<br>
+
+<a href="https://github.com/MustafaKullab/moda-ops-platform">
+  Repository
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌍 Countries Explorer
+
+**Vue.js + REST API**
+
+Explore countries with API-powered data, search, filtering and responsive UI.
+
+<br>
+
+<a href="https://github.com/MustafaKullab/Countries-Explorer-App-Vue.js-REST-API-Integration-with-Search-Filtering">
+  Repository ↗
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚡ Interactive Landing Page
+
+**Vanilla JavaScript**
+
+An interactive frontend project built with HTML, CSS and Vanilla JavaScript to strengthen DOM manipulation and event-driven UI development.
+
+<br>
+
+<a href="https://mustafakullab.github.io/Interactive-Landing-Page-Vanilla-JS-/">
+  Live Demo ↗
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎨 More Frontend Work
+
+<details>
+<summary><b>Explore frontend projects</b></summary>
+
+<br>
+
+| Project                           | Demo                                                                               |
+| --------------------------------- | ---------------------------------------------------------------------------------- |
+| 🖥️ Kullab Responsive MultiPage   | <a href="https://mustafakullab.github.io/Kullab-Responsive-MultiPage/">Live</a>    |
+| 🎨 Kullab Frontend Template       | <a href="https://mustafakullab.github.io/Kullab-Frontend-Template/">Live</a>       |
+| 💻 Kasper Responsive Landing Page | <a href="https://mustafakullab.github.io/kasper-responsive-landing-page/">Live</a> |
 
 </details>
 
 ---
 
-## 📈 My Development Journey
+## 💻 C++ Practice
+
+Currently studying **C++** and applying programming fundamentals through practical console projects.
+
+<details>
+<summary><b>View C++ projects</b></summary>
+
+<br>
+
+**✊ Rock Paper Scissors**
+
+Enums, structs, functions, loops, randomization and game-state logic.
+
+<a href="https://github.com/MustafaKullab/cpp-rock-paper-scissors">
+View Repository ↗
+</a>
+
+<br><br>
+
+**🧮 Math Quiz Game**
+
+Question generation, difficulty levels, arithmetic operations, scoring and result tracking.
+
+<a href="https://github.com/MustafaKullab/cpp-math-quiz-game">
+View Repository ↗
+</a>
+
+</details>
+
+---
+
+## 🧭 My Journey
+
+<p align="center">
+  <b>HTML / CSS</b>
+  &nbsp;→&nbsp;
+  <b>JavaScript</b>
+  &nbsp;→&nbsp;
+  <b>Vue.js</b>
+  &nbsp;→&nbsp;
+  <b>REST APIs</b>
+  &nbsp;→&nbsp;
+  <b>Node.js</b>
+  &nbsp;→&nbsp;
+  <b>Express.js</b>
+  &nbsp;→&nbsp;
+  <b>MongoDB</b>
+  &nbsp;→&nbsp;
+  <b>Full Stack</b>
+</p>
+
+---
+
+## 🎯 Currently
 
 ```text
-HTML / CSS
-     ↓
-JavaScript
-     ↓
-Vue.js
-     ↓
-State Management & REST APIs
-     ↓
-Node.js + Express.js
-     ↓
-MongoDB + Authentication
-     ↓
-Full Stack Applications
+Frontend        ████████████████████░░  Strong
+Backend         ████████████████░░░░░  Growing
+Vue.js          ████████████████████░  Strong
+JavaScript      ████████████████████░  Strong
+C++             ███████████░░░░░░░░░  Learning
 ```
 
----
-
-## 📚 Currently Learning
-
-* Advanced Vue.js patterns
-* Backend architecture
-* REST API design
-* Authentication & API security
-* Application performance
-* C++ fundamentals
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MustafaKullab&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MustafaKullab&show_icons=true&theme=dark&hide_border=true" />
-</p>
+> Currently improving backend architecture, API security, application performance, and overall full-stack development.
 
 ---
 
@@ -235,13 +248,18 @@ Full Stack Applications
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mustafa-kullab-aa6a153bb">
-    <img src="https://img.shields.io/badge/LinkedIn-Mustafa%20Kullab-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    LinkedIn
   </a>
-  <a href="mailto:momoana013@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/MustafaKullab">
+    GitHub
   </a>
 </p>
 
 <p align="center">
-  <i>Thanks for visiting my profile ⭐</i>
+  <i>Open to internships, freelance opportunities, and junior full-stack roles.</i>
+</p>
+
+<p align="center">
+  <sub>Thanks for stopping by ⭐</sub>
 </p>
