@@ -30,13 +30,13 @@
 
 ## 👋 About Me
 
-I'm a **Computer Systems Engineering student** and **Full Stack Web Developer** who enjoys turning ideas into practical web applications.
+I'm a **Computer Systems Engineering student** and **Full Stack Web Developer** focused on building modern and responsive web applications.
 
-My journey started with **HTML, CSS, and JavaScript**, grew through **Vue.js and frontend application development**, and eventually expanded into backend development with **Node.js, Express.js, MongoDB, REST APIs, and authentication**.
+My journey started with **HTML, CSS, and JavaScript**, then moved into **Vue.js**, state management, REST APIs, and full-stack development with **Node.js, Express.js, and MongoDB**.
 
-I care about building interfaces that feel good to use and backend systems that are structured, maintainable, and reliable.
+I enjoy turning ideas into complete applications — from responsive interfaces and frontend architecture to APIs, authentication, and database integration.
 
-> **Build. Break. Learn. Improve. Repeat.**
+> **Build. Learn. Improve. Repeat.**
 
 ---
 
@@ -68,57 +68,65 @@ I care about building interfaces that feel good to use and backend systems that 
 
 ---
 
-## 🚀 Selected Work
+## 🚀 Featured Project
+
+### 🛒 NovaStore — Full Stack E-Commerce
+
+My latest and most complete full-stack project, built with a separate Vue.js frontend and Node.js / Express backend.
+
+**Frontend**
+`Vue.js` · `Pinia` · `Vue Router`
+
+**Backend**
+`Node.js` · `Express.js` · `MongoDB` · `Mongoose`
+
+**Highlights**
+
+* 🔐 Authentication & authorization
+* 🔑 JWT-based authentication
+* 🛍️ Product & category management
+* 🛒 Shopping cart & checkout
+* 📦 Orders management
+* 👤 User management
+* 🧑‍💼 Admin functionality
+* 🔌 REST API integration
+* 📱 Responsive interface
+
+<p align="left">
+  <a href="https://novastore-frontend-psi.vercel.app/">Live Demo ↗</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/MustafaKullab/novastore-frontend">Frontend ↗</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/MustafaKullab/novastore-backend">Backend ↗</a>
+</p>
+
+---
+
+## ✨ More Selected Work
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🛒 NovaStore
-
-**Full Stack E-Commerce**
-
-Vue.js frontend + Node.js / Express backend + MongoDB.
-
-Authentication, authorization, products, cart, checkout, orders, user management, REST APIs and admin functionality.
-
-<br>
-
-<a href="https://novastore-frontend-psi.vercel.app/">
-  Live Demo ↗
-</a>
-
-<br>
-
-<a href="https://github.com/MustafaKullab/novastore-frontend">
-  Frontend
-</a>
-&nbsp;·&nbsp;
-<a href="https://github.com/MustafaKullab/novastore-backend">
-  Backend
-</a>
-
-</td>
-
 <td width="50%" valign="top">
 
 ### 🧥 ModaOps
 
 **Frontend E-Commerce Platform**
 
-A Vue.js application focused on modern UI, reusable components, user flows, product browsing, filtering, dashboards and responsive design.
+A Vue.js application focused on modern UI, reusable components, user flows, product browsing, filtering, dashboards, and responsive design.
 
-<br>
+<a href="https://style-store-vert.vercel.app/">Live Demo ↗</a> <br> <a href="https://github.com/MustafaKullab/moda-ops-platform">Repository ↗</a>
 
-<a href="https://style-store-vert.vercel.app/">
-  Live Demo ↗
-</a>
+</td>
 
-<br>
+<td width="50%" valign="top">
 
-<a href="https://github.com/MustafaKullab/moda-ops-platform">
-  Repository
-</a>
+### 🌍 Countries Explorer
+
+**Vue.js + REST API**
+
+A responsive application for exploring country data using search, filtering, and REST API integration.
+
+<a href="https://github.com/MustafaKullab/Countries-Explorer-App-Vue.js-REST-API-Integration-with-Search-Filtering">Repository ↗</a>
 
 </td>
 </tr>
@@ -126,33 +134,25 @@ A Vue.js application focused on modern UI, reusable components, user flows, prod
 <tr>
 <td width="50%" valign="top">
 
-### 🌍 Countries Explorer
+### ⚡ Interactive Landing Page
 
-**Vue.js + REST API**
+**Vanilla JavaScript**
 
-Explore countries with API-powered data, search, filtering and responsive UI.
+An interactive frontend project built to strengthen DOM manipulation, events, and dynamic UI behavior.
 
-<br>
-
-<a href="https://github.com/MustafaKullab/Countries-Explorer-App-Vue.js-REST-API-Integration-with-Search-Filtering">
-  Repository ↗
-</a>
+<a href="https://mustafakullab.github.io/Interactive-Landing-Page-Vanilla-JS-/">Live Demo ↗</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### ⚡ Interactive Landing Page
+### 🎨 Frontend Practice
 
-**Vanilla JavaScript**
+**HTML · CSS · Responsive Design**
 
-An interactive frontend project built with HTML, CSS and Vanilla JavaScript to strengthen DOM manipulation and event-driven UI development.
+A collection of responsive interfaces built while strengthening frontend fundamentals.
 
-<br>
-
-<a href="https://mustafakullab.github.io/Interactive-Landing-Page-Vanilla-JS-/">
-  Live Demo ↗
-</a>
+<a href="https://mustafakullab.github.io/Kullab-Responsive-MultiPage/">Explore Projects ↗</a>
 
 </td>
 </tr>
@@ -167,42 +167,9 @@ An interactive frontend project built with HTML, CSS and Vanilla JavaScript to s
 
 <br>
 
-| Project                           | Demo                                                                               |
-| --------------------------------- | ---------------------------------------------------------------------------------- |
-| 🖥️ Kullab Responsive MultiPage   | <a href="https://mustafakullab.github.io/Kullab-Responsive-MultiPage/">Live</a>    |
-| 🎨 Kullab Frontend Template       | <a href="https://mustafakullab.github.io/Kullab-Frontend-Template/">Live</a>       |
-| 💻 Kasper Responsive Landing Page | <a href="https://mustafakullab.github.io/kasper-responsive-landing-page/">Live</a> |
-
-</details>
-
----
-
-## 💻 C++ Practice
-
-Currently studying **C++** and applying programming fundamentals through practical console projects.
-
-<details>
-<summary><b>View C++ projects</b></summary>
-
-<br>
-
-**✊ Rock Paper Scissors**
-
-Enums, structs, functions, loops, randomization and game-state logic.
-
-<a href="https://github.com/MustafaKullab/cpp-rock-paper-scissors">
-View Repository ↗
-</a>
-
-<br><br>
-
-**🧮 Math Quiz Game**
-
-Question generation, difficulty levels, arithmetic operations, scoring and result tracking.
-
-<a href="https://github.com/MustafaKullab/cpp-math-quiz-game">
-View Repository ↗
-</a>
+* 🖥️ <a href="https://mustafakullab.github.io/Kullab-Responsive-MultiPage/">Kullab Responsive MultiPage</a>
+* 🎨 <a href="https://mustafakullab.github.io/Kullab-Frontend-Template/">Kullab Frontend Template</a>
+* 💻 <a href="https://mustafakullab.github.io/kasper-responsive-landing-page/">Kasper Responsive Landing Page</a>
 
 </details>
 
@@ -230,34 +197,54 @@ View Repository ↗
 
 ---
 
-## 🎯 Currently
+## 💻 C++ Practice
 
-```text
-Frontend        ████████████████████░░  Strong
-Backend         ████████████████░░░░░  Growing
-Vue.js          ████████████████████░  Strong
-JavaScript      ████████████████████░  Strong
-C++             ███████████░░░░░░░░░  Learning
-```
+Currently studying **C++** and applying programming fundamentals through practical console projects.
 
-> Currently improving backend architecture, API security, application performance, and overall full-stack development.
+<details>
+<summary><b>View C++ projects</b></summary>
+
+<br>
+
+**✊ Rock Paper Scissors**
+
+Enums, structs, functions, loops, randomization, and game-state logic.
+
+<a href="https://github.com/MustafaKullab/cpp-rock-paper-scissors">View Repository ↗</a>
+
+<br><br>
+
+**🧮 Math Quiz Game**
+
+Question generation, difficulty levels, arithmetic operations, scoring, and result tracking.
+
+<a href="https://github.com/MustafaKullab/cpp-math-quiz-game">View Repository ↗</a>
+
+</details>
+
+---
+
+## 🎯 Currently Improving
+
+* Advanced Vue.js patterns
+* Backend architecture
+* REST API design
+* Authentication & API security
+* Application performance
+* C++ fundamentals
 
 ---
 
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mustafa-kullab-aa6a153bb">
-    LinkedIn
-  </a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://github.com/MustafaKullab">
-    GitHub
-  </a>
+  <b>Open to internships, freelance opportunities, and junior full-stack roles.</b>
 </p>
 
 <p align="center">
-  <i>Open to internships, freelance opportunities, and junior full-stack roles.</i>
+  <a href="https://www.linkedin.com/in/mustafa-kullab-aa6a153bb">LinkedIn ↗</a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/MustafaKullab">GitHub ↗</a>
 </p>
 
 <p align="center">
